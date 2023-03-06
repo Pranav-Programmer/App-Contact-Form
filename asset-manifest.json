@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-Form-For-App/static/css/main.e20b2b81.css",
+    "main.js": "/Contact-Form-For-App/static/js/main.4dcf78cf.js",
+    "static/js/787.da558b7b.chunk.js": "/Contact-Form-For-App/static/js/787.da558b7b.chunk.js",
+    "static/media/shape.png": "/Contact-Form-For-App/static/media/shape.1511f1b019e98c3c0785.png",
+    "index.html": "/Contact-Form-For-App/index.html",
+    "main.e20b2b81.css.map": "/Contact-Form-For-App/static/css/main.e20b2b81.css.map",
+    "main.4dcf78cf.js.map": "/Contact-Form-For-App/static/js/main.4dcf78cf.js.map",
+    "787.da558b7b.chunk.js.map": "/Contact-Form-For-App/static/js/787.da558b7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20b2b81.css",
+    "static/js/main.4dcf78cf.js"
+  ]
+}
